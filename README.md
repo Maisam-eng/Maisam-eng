@@ -64,6 +64,7 @@
 - Developed collaboratively as a team project.
 - Contributed to different parts of the project throughout the development process.
 - Worked collaboratively with the team on implementing and improving the application.
+---
 
 ### 🔹 Low-Power CCFF Design (32nm CMOS)  
 🔗 https://github.com/Maisam-eng/Design-and-Analysis-of-a-Low-Power-Conditional-Capture-Flip-Flop-in-32-nm-CMOS  
